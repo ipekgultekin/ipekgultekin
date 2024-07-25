@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm İpek</h1>
 <h3 align="center">I'm 3rd year Computer Engineering student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ipekgultekin&label=Profile%20views&color=0e75b6&style=flat" alt="ipekgultekin" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ipekgultekin" alt="ipekgultekin" /></a> </p>
-
 - 📫 How to reach me **ipek.gultekiin.01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
