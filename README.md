@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📫 How to reach me: **ipek.gultekiin.01@gmail.com**
+- 📫 How to reach me: **ipek.gultekin@metu.edu.tr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
