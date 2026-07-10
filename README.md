@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm İpek</h1>
-<h3 align="center">Computer Engineering Student</h3>
+<h3 align="center">Computer Engineer</h3>
 
 - 📫 How to reach me: **ipek.gultekiin.01@gmail.com**
 
