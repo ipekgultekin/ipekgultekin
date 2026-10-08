@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm İpek</h1>
-<h3 align="center">Computer Engineer</h3>
+<h3 align="center">Computer Engineer | M.Sc. Student at TUM</h3>
+
+<p align="center">
+🎓 M.Sc. Information Engineering — Technical University of Munich (TUM)<br>
+🎓 B.Sc. Computer Engineering — Middle East Technical University (METU)
+</p>
+
+<p align="center">
+💻 Interested in Software Engineering, Backend Development & AI
+</p>
 
 - 📫 How to reach me **ipek.gultekiin.01@gmail.com**
 
