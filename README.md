@@ -2,8 +2,8 @@
 <h3 align="center">Computer Engineer | M.Sc. Student at TUM</h3>
 
 <p align="center">
-🎓 M.Sc. Information Engineering — Technical University of Munich (TUM)<br>
-🎓 B.Sc. Computer Engineering — Middle East Technical University (METU)
+🎓 Currently pursuing an M.Sc. in Information Engineering at Technical University of Munich (TUM)<br>
+🎓 B.Sc. in Computer Engineering from Middle East Technical University (METU)
 </p>
 
 <p align="center">
